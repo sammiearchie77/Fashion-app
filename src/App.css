@@ -3975,6 +3975,7 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+  background-image: url('./asset/img/navbar-logo.svg');
 }
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
@@ -10118,8 +10119,9 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
-  background-image: url("asset/img/header-bg.jpg"); 
+  border-color: 1px 2px solid #fed136;
+  color: #000;
+  background-image: url("asset/img/pexels-david-geib-3268732.jpg"); 
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10425,7 +10427,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("asset/img/map-image.png");
+  background-image: url("asset/img/pexels-cottonbro-3993449.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
